@@ -1,0 +1,8 @@
+This is protection for 10" screws installed on Turnigy Talon Quadcopter (V2.0) Carbon Fiber Frame 550mm
+(http://www.hobbyking.com/hobbyking/store/uh_viewItem.asp?idProduct=22781).
+Files starting with "protection" are protective frame itself. It's made from 3mm Foam PVC (2 layers) and 50mm Foam PS (1 layer).
+Files starting with "protection-mod" are special thing to center protection on Talon V2.0 frame 
+(it's with error - outer rectangle should be rotated for 45 degree).
+
+It would be good to combine both parts.
+Python files are scripts to run within FreeCAD 0.13 (or later) is you want to see it in 3D or change.

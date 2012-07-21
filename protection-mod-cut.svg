@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     baseProfile="full"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:ev="http://www.w3.org/2001/xml-events"
+     width="100%" height="100%">
+<g id="View"
+   transform="rotate(0,105,100) translate(105,100) scale(1,1)"
+  >
+<g   stroke="rgb(0, 0, 0)"
+   stroke-width="0.35"
+   stroke-linecap="butt"
+   stroke-linejoin="miter"
+   fill="none"
+  >
+<path id= "1" d=" M -50 50 L -50 -50 " />
+<path id= "2" d=" M -50 50 L 50 50 " />
+<path id= "3" d=" M -50 -50 L 50 -50 " />
+<path id= "4" d=" M 50 50 L 50 -50 " />
+<path id= "5" d=" M -45.25 21 L -35.5685 21 " />
+<path id= "6" d=" M -45.25 21 L -45.25 -21 " />
+<path id= "7" d=" M -35.5685 21 L -21 35.5685 " />
+<path id= "8" d=" M -45.25 -21 L -35.5685 -21 " />
+<path id= "9" d=" M -21 45.25 L -21 35.5685 " />
+<path id= "10" d=" M -21 -35.5685 L -35.5685 -21 " />
+<path id= "11" d=" M -21 45.25 L 21 45.25 " />
+<path id= "12" d=" M -21 -35.5685 L -21 -45.25 " />
+<path id= "13" d=" M 21 45.25 L 21 35.5685 " />
+<path id= "14" d=" M -21 -45.25 L 21 -45.25 " />
+<path id= "15" d=" M 21 35.5685 L 35.5685 21 " />
+<path id= "16" d=" M 21 -35.5685 L 21 -45.25 " />
+<path id= "17" d=" M 35.5685 21 L 45.25 21 " />
+<path id= "18" d=" M 35.5685 -21 L 21 -35.5685 " />
+<path id= "19" d=" M 45.25 21 L 45.25 -21 " />
+<path id= "20" d=" M 35.5685 -21 L 45.25 -21 " />
+</g>
+</g>
+</svg>
